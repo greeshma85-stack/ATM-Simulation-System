@@ -1,5 +1,4 @@
 ATM Simulation System (Java)
-
 A console-based ATM simulation application built using Java, demonstrating core programming concepts such as OOP, control flow, loops, and user input handling.
 This project simulates basic ATM functionalities like depositing money, withdrawing money, and checking account balance.
 
