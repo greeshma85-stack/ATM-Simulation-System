@@ -1,4 +1,4 @@
-# 🏦 ATM Simulation System (Java)
+# ATM Simulation System (Java)
 
 A **console-based ATM simulation application** built using **Java**, demonstrating core programming concepts such as **Object-Oriented Programming (OOP), control flow, loops, and user input handling**.
 
@@ -6,17 +6,17 @@ This project simulates basic ATM functionalities like depositing money, withdraw
 
 ---
 
-## 📌 Features
+## Features
 
-- 💰 Deposit money into the account  
-- 💸 Withdraw money with balance validation  
-- 📊 View current account balance  
-- 🔁 Menu-driven interface  
-- 🔐 Encapsulation for secure balance handling  
+-  Deposit money into the account  
+-  Withdraw money with balance validation  
+-  View current account balance  
+-  Menu-driven interface  
+-  Encapsulation for secure balance handling  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Java  
 - **Concepts Used:**  
@@ -29,7 +29,7 @@ This project simulates basic ATM functionalities like depositing money, withdraw
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ATM-Simulation/
 │
 ├── Main.java
@@ -40,7 +40,7 @@ ATM-Simulation/
 
 ---
 
-## ▶️ How to Run the Program
+##  How to Run the Program
 
 1. Clone the repository:
    ```bash
