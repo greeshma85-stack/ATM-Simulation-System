@@ -37,9 +37,6 @@ ATM-Simulation/
 
 ---
 
-
----
-
 ##  How to Run the Program
 
 1. Clone the repository:
@@ -71,7 +68,7 @@ User selects an operation
 Program performs the selected action
 Menu repeats until the user chooses Exit**
 
-
+---
 
 ## Sample Output
 1.Deposite
