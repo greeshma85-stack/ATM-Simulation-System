@@ -33,7 +33,7 @@ public class Main{
                 System.out.println("Exiting.....");
                 System.out.println("ThankYou");
                 sc.close();
-                System.exit(0); //is used to completely stop the               Java program immediately.
+                System.exit(0);
             default:
                 System.out.println("Invalid Choice");
                 break;
